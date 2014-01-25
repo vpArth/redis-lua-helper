@@ -1,0 +1,29 @@
+{
+  "name": "arth-redis-lua",
+  "version": "0.0.1",
+  "description": "Lua scripts helper for RedisClient",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "node",
+    "redis",
+    "lua"
+  ],
+  "author": "Alexander Deider <arth.inbox@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "simple-test-runner": "latest"
+  },
+  "dependencies": {
+    "redis": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vpArth/redis-lua-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vpArth/redis-lua-helper.git/issues"
+  }
+}
